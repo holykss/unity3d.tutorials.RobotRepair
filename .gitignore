@@ -1,4 +1,11 @@
 #################
+## Unity3D
+#################
+/Library/metadata
+/Library/cache
+/Library/previews
+
+#################
 ## Eclipse
 #################
 
